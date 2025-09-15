@@ -1,7 +1,7 @@
 [
     {
         "client_code": "gs",
-        "due_date": "2025-10-15",
+        "due_date": "2025-10-01",
         "days_deadline": 30,
         "paid": false
     }
